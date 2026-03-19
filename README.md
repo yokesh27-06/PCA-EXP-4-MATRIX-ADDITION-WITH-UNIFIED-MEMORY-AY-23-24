@@ -39,6 +39,11 @@ Allocate Host Memory
 
 ## PROGRAM:
 ```
+!pip install git+https://github.com/andreinechaev/nvcc4jupyter.git
+%load_ext nvcc4jupyter
+```
+
+```
 %%cuda
 #include <stdio.h>
 #include <cuda_runtime.h>
