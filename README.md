@@ -275,6 +275,9 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
+<img width="593" height="105" alt="image" src="https://github.com/user-attachments/assets/1f8ec821-b999-41c2-90e2-1158f46be685" />
+<img width="598" height="114" alt="image" src="https://github.com/user-attachments/assets/f281e668-b627-438d-8a3f-2cb6729fd01a" />
+
 
 ## RESULT:
 Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more_______________time.
